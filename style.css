@@ -39,3 +39,6 @@ p{text-align: justify;}
     background-position:right
     ;
 }
+.half-div{
+    box-shadow: 60px -16px teal;
+}
