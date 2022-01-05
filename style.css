@@ -22,6 +22,9 @@ h2{
 h3{
     color: darkorange;
 }
+h4{
+    font-size: 30px;
+}
 .p {
     color: coral;
 }
@@ -56,9 +59,10 @@ p{text-align: justify;}
 .developing{
     display: flex;
     margin-bottom: 150px;
-    background-image: url(exp-bg.png);
+    background-image: url(dream-bg.png);
     background-repeat: no-repeat;
-    
+    background-position: right;
+    padding-right: 5%;
 }
 .changing{
     padding-left: 5%;
