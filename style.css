@@ -56,6 +56,9 @@ p{text-align: justify;}
     background-image: url(top-banner.png);
     background-repeat: no-repeat;
 }
+.photo{
+    width: 50%;
+}
 .developing{
     display: flex;
     margin-bottom: 150px;
