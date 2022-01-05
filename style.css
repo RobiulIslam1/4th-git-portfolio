@@ -57,7 +57,7 @@ p{text-align: justify;}
     background-repeat: no-repeat;
 }
 .photo{
-    width: 50%;
+    width: 100%;
 }
 .developing{
     display: flex;
